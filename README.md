@@ -1,2 +1,2 @@
 # Bikcraft
-Aquecendo
+Adicionando detalhes
