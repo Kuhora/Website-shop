@@ -207,6 +207,7 @@ p {
   }
 }
 
+
 @media (max-width: 400px) {
   .subtitulo {
     font-size: 2rem;
